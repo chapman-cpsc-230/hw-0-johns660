@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _\<Lindsey Johnson\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<2/4/16\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<The assignment was to clone all the documents onto our computer\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned to clone my 3 homewor files and uplaod them back on github\>_
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Lindsey Johnson\>_
