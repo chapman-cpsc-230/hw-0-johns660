@@ -6,11 +6,11 @@
 
 ## Description
 
-_\<The assignment was to clone all the documents onto our computer\>_
+_\<The assignment was to clone all the documents onto our computer and upload them back on git.\>_
 
 ## What I Learned from This
 
-_\<I learned to clone my 3 homewor files and uplaod them back on github\>_
+_\<I learned to clone my 3 homewor files and uplaod them back on github.\>_
 
 ## Honor Pledge
 
